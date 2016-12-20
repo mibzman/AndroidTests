@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_game"
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\layout\activity_game.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_win"
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\layout\activity_win.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main_gaim"
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\menu\main_gaim.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main_win"
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\menu\main_win.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="p2" >0
+                </string>
+                <string name="won" >YOU WON!!
+                </string>
+                <string name="minus" >-1
+                </string>
+                <string name="plus" >+1
+                </string>
+                <string name="welcome" >Welcome, to Sams Glorious button pressing game!
+        To play, press the +1 button to add points to your score, and the -1 button to take
+        points away from your opponent! first one to 20 wins!  Good luck!
+                </string>
+                <string name="button" >Lets Play!
+                </string>
+                <string name="title_activity_main_win" >Winner!
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="p1scoretitle" >Nameys Score
+                </string>
+                <string name="inf" >Infinate points
+                </string>
+                <string name="stuff" >Number of Possiable Points
+                </string>
+                <string name="player1" >Player One Display Name
+                </string>
+                <string name="title_activity_main_game" >MainGame
+                </string>
+                <string name="player2" >Player Two Display Name
+                </string>
+                <string name="score" >Score:
+                </string>
+                <string name="title_activity_main_gaim" >MainActivity
+                </string>
+                <string name="lost" >YOU LOST!!
+                </string>
+                <string name="yname" >Your Score:
+                </string>
+                <string name="p2scoretitle" >Bobs Score
+                </string>
+                <string name="your" >Your
+                </string>
+                <string name="congrats" >Congradulations,
+                </string>
+                <string name="p2name" >Bob
+                </string>
+                <string name="app_name" >BUTTON WARS!
+                </string>
+                <string name="p1" >0
+                </string>
+                <string name="p1name" >Namey
+                </string>
+            </file>
+            <file
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\src\debug\res" />
+    </dataSet>
+
+</merger>

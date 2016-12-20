@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/moaraddness/moaraddness.iml" filepath="$PROJECT_DIR$/moaraddness/moaraddness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moaraddnessProject.iml" filepath="$PROJECT_DIR$/moaraddnessProject.iml" />
+    </modules>
+  </component>
+</project>
+

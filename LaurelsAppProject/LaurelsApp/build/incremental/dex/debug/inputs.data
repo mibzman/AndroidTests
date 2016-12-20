@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377100204364 825 55330de832713c7fb2886ac7e62b82c17830db20 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\classes\debug\com\example\laurelsapp\MainActivity.class
+1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d C:\Users\Sam\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
+1377100204388 473 523ec56fb9e658eca9552e0acad8eefb1f26cd53 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\classes\debug\com\example\laurelsapp\R$dimen.class
+1377100204396 717 ddde1dd5111e1145eedd36fb3495a5f0cfa478d5 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\classes\debug\com\example\laurelsapp\R.class
+1377100204393 484 727e36ec3c3b624ab28eb965dbf5e40df226a4ef C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\classes\debug\com\example\laurelsapp\R$string.class
+1377100204376 352 af4dffff673e3be5f0edf3f8fb68adef97a15ef4 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\classes\debug\com\example\laurelsapp\R$attr.class
+1377100204390 405 f0752413d69bd8b2f2ee330a68af13f1ac6d51c7 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\classes\debug\com\example\laurelsapp\R$id.class
+1377100204394 443 0700298b45d87b032b2b12dbaf9653eea2d2eecb C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\classes\debug\com\example\laurelsapp\R$style.class
+1377100204392 400 509f9f3bebb250c74c2c84c73d07c46b346e9eb3 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\classes\debug\com\example\laurelsapp\R$menu.class
+1377100204391 415 5a2621867522895839966d6bf8ef6ff1864f1523 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\classes\debug\com\example\laurelsapp\R$layout.class
+1377100204389 419 7b16f9b10340a95e00c062ea15690ba9986e4a64 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\classes\debug\com\example\laurelsapp\R$drawable.class
+1377100204397 353 3b02a10b54f22ac39e8b0959c005802cd91f53fc C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\classes\debug\com\example\laurelsapp\BuildConfig.class

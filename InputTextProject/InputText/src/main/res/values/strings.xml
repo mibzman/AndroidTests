@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Input Text</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text1">"Yes or No?</string>
+    <string name="text2">"Go!</string>
+    <string name="text3">"Should this Work?"</string>
+    <string name="title_activity_display_message">MainActivity</string>
+    <string name="title_activity_display_message1">My Message</string>
+    <string name="title_activity_name">MainActivity</string>
+
+</resources>

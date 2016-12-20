@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LaurelsApp/LaurelsApp.iml" filepath="$PROJECT_DIR$/LaurelsApp/LaurelsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LaurelsAppProject.iml" filepath="$PROJECT_DIR$/LaurelsAppProject.iml" />
+    </modules>
+  </component>
+</project>
+

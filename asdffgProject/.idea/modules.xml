@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/asdffg/asdffg.iml" filepath="$PROJECT_DIR$/asdffg/asdffg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asdffgProject.iml" filepath="$PROJECT_DIR$/asdffgProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sam/sam.iml" filepath="$PROJECT_DIR$/sam/sam.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">buttonwarsui</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome, to Button Wars.  To play, press the +1 button to add points to your score, and the -1 button to take points away from your opponent. You will face many challenges.  Enjoy :)</string>
+    <string name="box">Play to Infinity</string>
+    <string name="numberz"># of points to win</string>
+    <string name="title_activity_main_game">Button Wars</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="plus">+1</string>
+    <string name="minus">-1</string>
+    <string name="pause">Pause</string>
+    <string name="pScoreTitle">Your Score</string>
+    <string name="cScoreTitle">Robs Score</string>
+    <string name="startScore">0</string>
+    <string name="robsMessage">Hello</string>
+    <string name="adventure">Begin.</string>
+
+</resources>

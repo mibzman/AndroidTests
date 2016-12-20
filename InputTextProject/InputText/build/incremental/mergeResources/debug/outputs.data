@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1380469694158 1133 8bcb84c5cb083f24bfb311cc5518c4c4dc544fc6 C:\Users\Sam\AndroidStudioProjects\InputTextProject\InputText\build\res\all\debug\layout\activity_main.xml
+1380469694158 347 d15c26e3b16e749059461aec34a27a1690156d6e C:\Users\Sam\AndroidStudioProjects\InputTextProject\InputText\build\res\all\debug\values-v14\values.xml
+1380469694178 1332 494bf4b39f89d4b3ddaebecf18e27ff0f0c3252d C:\Users\Sam\AndroidStudioProjects\InputTextProject\InputText\build\res\all\debug\layout\activity_display_message.xml
+1380469694154 1511 84f3d2d1847c7cba27dce938ab9cabe11ca404cd C:\Users\Sam\AndroidStudioProjects\InputTextProject\InputText\build\res\all\debug\values\values.xml
+1380469694163 262 8e33cf88478d6b5d20eb9dd92637221fe3c6b3e5 C:\Users\Sam\AndroidStudioProjects\InputTextProject\InputText\build\res\all\debug\values-sw720dp-land\values.xml
+1380469694161 333 7cbdd9ba67919eb2ae343850eac5332c107042e4 C:\Users\Sam\AndroidStudioProjects\InputTextProject\InputText\build\res\all\debug\values-v11\values.xml
+1380469694779 3121 c13193c37274d333ac028cc72c260b891662d9d0 C:\Users\Sam\AndroidStudioProjects\InputTextProject\InputText\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1380469694171 761 bf711b4d55d894efbfa7ea917affe520f4de464d C:\Users\Sam\AndroidStudioProjects\InputTextProject\InputText\build\res\all\debug\layout\activity_name.xml
+1380469694156 353 7b1a0bb099974dc3bc3f104aec6a4bae1716eec9 C:\Users\Sam\AndroidStudioProjects\InputTextProject\InputText\build\res\all\debug\menu\name.xml
+1380469694879 17765 702fd3311475c099afc13c0b03375d917cc82018 C:\Users\Sam\AndroidStudioProjects\InputTextProject\InputText\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1380469694157 353 f33cd1a2e4ee378ea8f058e50a60d1eadb69b00f C:\Users\Sam\AndroidStudioProjects\InputTextProject\InputText\build\res\all\debug\menu\main.xml
+1380469694768 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c C:\Users\Sam\AndroidStudioProjects\InputTextProject\InputText\build\res\all\debug\drawable-xhdpi\ic_launcher.png
+1380469694835 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 C:\Users\Sam\AndroidStudioProjects\InputTextProject\InputText\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1380469694158 364 60f0c2462fbad413888ef729f8668d50d1ba9453 C:\Users\Sam\AndroidStudioProjects\InputTextProject\InputText\build\res\all\debug\menu\display_message.xml

@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1380148331372 1171 69e1b7d4c6964bc1d5c9e13e2296aeb9801a349f C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\res\all\debug\values\values.xml
+1380148332049 3121 c13193c37274d333ac028cc72c260b891662d9d0 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1380148331927 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1380148331376 335 130f48fc443c68ebc0a1b416b46cd5b864408842 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\res\all\debug\values-v11\values.xml
+1380148331940 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\res\all\debug\drawable-xhdpi\ic_launcher.png
+1380148331374 349 5dd644dadd19eecd01368467588a9d75a0065e91 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\res\all\debug\values-v14\values.xml
+1380148331198 355 44a15c3d98b3ce1677c478921c7c76baeb11f944 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\res\all\debug\menu\main.xml
+1380148331198 948 d1e61986d99c34c1bede349b07a445f0eb190b04 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\res\all\debug\layout\activity_main.xml
+1380148331971 17765 702fd3311475c099afc13c0b03375d917cc82018 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1380148331378 264 57bb90faa9d8677bcd0131e3633a2109c52a1025 C:\Users\Sam\AndroidStudioProjects\LaurelsAppProject\LaurelsApp\build\res\all\debug\values-sw720dp-land\values.xml

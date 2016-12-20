@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings main.xml -->
+    <string name="app_name">Mundo Tricolin</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registro">Registrarse</string>
+    
+    <!-- Strings registro.xml -->
+    <string name="usuario">Nombre usuario</string>
+    <string name="nombre">Nombre real</string>
+    <string name="email">Email padre o madre</string>
+    <string name="edad">Edad</string>
+    <string name="institucion">Centro de estudio</string>
+    <string name="enviar">Enviar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="matchPassword">Confirmar contraseña</string>
+    
+    <!-- Strings login.xml -->
+    <string name="nick">Usuario</string>
+    <string name="pass">Contraseña</string>
+
+</resources>

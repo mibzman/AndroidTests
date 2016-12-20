@@ -1,0 +1,88 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainGame">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pause"
+        android:id="@+id/pause"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/pScoreTitle"
+        android:id="@+id/pScoreTitle"
+        android:layout_below="@+id/pause"
+        android:layout_toLeftOf="@+id/pause" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/cScoreTitle"
+        android:id="@+id/cScoreTitle"
+        android:layout_below="@+id/pause"
+        android:layout_toRightOf="@+id/pause"
+        android:layout_alignParentRight="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/startScore"
+        android:id="@+id/pScore"
+        android:layout_marginTop="36dp"
+        android:layout_below="@+id/pScoreTitle"
+        android:layout_alignRight="@+id/pScoreTitle"
+        android:layout_marginRight="40dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/startScore"
+        android:id="@+id/cScore"
+        android:layout_alignTop="@+id/pScore"
+        android:layout_alignLeft="@+id/cScoreTitle"
+        android:layout_marginLeft="40dp"/>
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="@string/minus"
+        android:id="@+id/minus"
+        android:layout_marginTop="33dp"
+        android:layout_below="@+id/pScore"
+        android:layout_alignRight="@+id/pScore" />
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="@string/plus"
+        android:id="@+id/plus"
+        android:layout_alignBaseline="@+id/minus"
+        android:layout_alignBottom="@+id/minus"
+        android:layout_alignLeft="@+id/cScore" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/robsMessage"
+        android:id="@+id/robsMessage"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="73dp" />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Sam/AndroidStudioProjects/buttonwarsuiProject/buttonwarsui/src/main/res/layout/activity_game.xml -->

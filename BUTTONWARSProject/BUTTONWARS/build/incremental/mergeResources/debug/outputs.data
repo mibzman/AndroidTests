@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1380484303232 349 30cf2341c056ac388b9cdbbc51ecae99a388081e C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\all\debug\values-v14\values.xml
+1380484303389 3121 c13193c37274d333ac028cc72c260b891662d9d0 C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1380484303142 360 82085679b3e823a200c3cb7bdf38688f8c70d600 C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\all\debug\menu\main_gaim.xml
+1380484303141 355 1e66056bd86e50c8d1b52df5589bbe27e45f6ea0 C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\all\debug\menu\main.xml
+1382311665406 7639 254b418ec51fb84dff12ba423f784b5ebdadaffa C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\all\debug\layout\activity_game.xml
+1380484303234 335 cb082feb4608abcd04997205059ff1197f7bfee3 C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\all\debug\values-v11\values.xml
+1380484303395 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1381799230212 2496 b1aa106509d6da81579cacbfc679c869b163aad7 C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\all\debug\values\values.xml
+1380484303170 2557 de94422dc90bf1e1ebdb745fac1fff1613ca9742 C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\all\debug\layout\activity_main.xml
+1380484303236 264 805563848abaf4a1f3d5103ed4e52fe485d450cf C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\all\debug\values-sw720dp-land\values.xml
+1380484303446 17765 702fd3311475c099afc13c0b03375d917cc82018 C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1380484303141 359 012a4ed07ecd74a63e2086dc68f079a1af30ee36 C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\all\debug\menu\main_win.xml
+1380484303156 3264 10667df2fbc7a9bd398ba155f35a7e2e00022538 C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\all\debug\layout\activity_win.xml
+1380484303406 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c C:\Users\Sam\AndroidStudioProjects\BUTTONWARSProject\BUTTONWARS\build\res\all\debug\drawable-xhdpi\ic_launcher.png

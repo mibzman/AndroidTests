@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/confidencetest/confidencetest.iml" filepath="$PROJECT_DIR$/confidencetest/confidencetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/confidencetestProject.iml" filepath="$PROJECT_DIR$/confidencetestProject.iml" />
+    </modules>
+  </component>
+</project>
+

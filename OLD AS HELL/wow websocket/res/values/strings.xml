@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">wow websocket</string>
+    <string name="api_host">http://example.com</string>
+    <string name="socket_host">ws://example.com:8888</string>
+
+</resources>

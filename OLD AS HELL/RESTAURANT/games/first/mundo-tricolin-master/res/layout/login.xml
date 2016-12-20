@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_verde"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="17dp"
+        android:text="@string/nick"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/nick"
+        android:layout_width="186dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="42dp"
+        android:ems="10" />
+
+    <EditText
+        android:id="@+id/pass"
+        android:layout_width="188dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/nick"
+        android:layout_marginTop="40dp"
+        android:ems="10"
+        android:inputType="textPassword" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/nick"
+        android:layout_marginTop="16dp"
+        android:text="@string/pass"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/entar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pass"
+        android:layout_marginTop="14dp"
+        android:layout_toRightOf="@+id/textView1"
+        android:onClick="clickbuttonConsultar"
+        android:text="@string/ingresar" />
+
+    <Button
+        android:id="@+id/cancelar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/entar"
+        android:layout_alignBottom="@+id/entar"
+        android:layout_toRightOf="@+id/pass"
+        android:onClick="cerrar"
+        android:text="@string/cancelar" />
+
+</RelativeLayout>

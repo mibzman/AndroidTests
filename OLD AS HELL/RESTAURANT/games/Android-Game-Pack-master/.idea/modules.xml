@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GamePack.iml" filepath="$PROJECT_DIR$/GamePack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GamePackActivity/GamePackActivity.iml" filepath="$PROJECT_DIR$/GamePackActivity/GamePackActivity.iml" />
+    </modules>
+  </component>
+</project>
